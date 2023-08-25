@@ -59,7 +59,7 @@ const data = {
         id: 7,
         title: "MAD RABBIT, Grey: Groove",
         price: 30,
-        image: require('https://m.media-amazon.com/images/G/30/Prime_Marketing/250x250-9.jpg'),
+        image: require('./images/06-delante.png'),
         image2: require('./images/06-detras.png'),
         category: "T-SHIRT",
         size: ["S", "M", "L", "XL", "XXL"]
