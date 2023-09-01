@@ -2,7 +2,7 @@
   "name": "shop",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://rojical.github.io/E-shop-Brazmadrid",
+  "homepage": "https://RoJiCal.github.io/e-shop-brazmadrid",
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
